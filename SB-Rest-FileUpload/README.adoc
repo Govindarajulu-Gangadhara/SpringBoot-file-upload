@@ -1,0 +1,29 @@
+== Spring Boot - File Upload Sample
+
+You will create a Spring Boot web application that accepts file uploads. You will also build a simple HTML interface to upload a test file.
+
+== Application class
+Application.java class
+
+
+== File upload controller
+
+FileUploadController
+
+== HTML template
+
+uploadForm
+
+
+== Testing Aapplication
+
+Right click on Project Run --> Spring Boot Application
+
+In Browser open
+
+http://localhost:8080/
+
+Browse the file to upload and select file.
+
+Click on Upload file.
+
